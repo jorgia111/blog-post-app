@@ -1,4 +1,3 @@
-#view files
 from flask import render_template,request,Blueprint
 from puppycompanyblog.models import BlogPost
 
